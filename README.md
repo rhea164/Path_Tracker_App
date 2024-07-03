@@ -1,4 +1,4 @@
-# PathTrackerApp
+# Path Tracker App
 
 PathTrackerApp is a React Native mobile application designed for users to track and record their walking paths in real-time. With user authentication via JSON Web Tokens and async storage for secure token management, users can sign in, save their tracks, and view detailed maps of their recorded paths. The app integrates with a custom Express API and MongoDB database to store and manage user-specific tracks.
 
